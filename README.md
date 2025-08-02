@@ -1,2 +1,38 @@
-# task-manager
-A responsive and user-friendly task manager web application built with React, TypeScript, and Tailwind CSS. It allows users to add, delete, filter, and update tasks. Tasks are persisted using local storage for a smooth experience without requiring a backend.
+# 📝 Task Manager App
+
+A responsive and user-friendly task management web application built with **React**, **TypeScript**, and **Tailwind CSS**. It allows users to add, filter, update, and delete tasks easily. Tasks are saved in local storage, so they persist even after refreshing the page.
+
+## 🚀 Features
+
+- ✅ Add new tasks
+- 🗂️ Filter tasks by status: All, Pending, In Progress, Completed
+- 🔄 Update task status
+- ❌ Delete tasks
+- 💾 LocalStorage persistence
+- 🎨 Tailwind CSS styling
+
+## 📷 Screenshots
+
+![Task Manager Screenshot](https://via.placeholder.com/800x400?text=Task+Manager+Screenshot)
+
+## 📦 Tech Stack
+
+- **Frontend**: React + Vite
+- **Language**: TypeScript
+- **Styling**: Tailwind CSS
+- **State**: React useState and useEffect
+- **Persistence**: Local Storage
+
+## 🛠️ Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or above recommended)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/yourusername/task-manager-app.git
+cd task-manager-app
