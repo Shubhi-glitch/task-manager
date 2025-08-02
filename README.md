@@ -30,9 +30,3 @@ A responsive and user-friendly task management web application built with **Reac
 - Node.js (v18 or above recommended)
 - npm or yarn
 
-### Installation
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/task-manager-app.git
-cd task-manager-app
