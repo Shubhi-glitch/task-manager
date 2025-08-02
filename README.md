@@ -11,10 +11,6 @@ A responsive and user-friendly task management web application built with **Reac
 - 💾 LocalStorage persistence
 - 🎨 Tailwind CSS styling
 
-## 📷 Screenshots
-
-![Task Manager Screenshot](https://via.placeholder.com/800x400?text=Task+Manager+Screenshot)
-
 ## 📦 Tech Stack
 
 - **Frontend**: React + Vite
